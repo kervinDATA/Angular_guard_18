@@ -1,0 +1,15 @@
+/* home.component.css */
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #28a745;
+  font-size: 24px;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+}
